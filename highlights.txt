@@ -1,0 +1,7 @@
+Rewiring is applied to the network of evolutionary Dictator Game agent populations.
+
+Rewiring occurs according to the trust weights of the agents.
+
+Over generations, agents update their trust in others and then evolve by imitating the strategies of others.
+
+The trust weight rewiring system can promote fairness depending on the evolution rate and rewire probability parameters.
