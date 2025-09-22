@@ -1,0 +1,1 @@
+Proposal values ($p$) and ``neighbourhood p", the mean proposal value of an agent's neighbours, of generations 25, 50, 100 and 250 of the population depicted in Figure 3.

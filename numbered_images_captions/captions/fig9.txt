@@ -1,0 +1,1 @@
+Utility ($u$) and degree ($k$) of a population using trust weight rewiring, cumulative utility and roulette wheel selection at generation 12000.

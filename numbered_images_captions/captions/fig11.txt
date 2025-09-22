@@ -1,0 +1,1 @@
+Mean proposal values of populations using various evolution rate (ER) and rewire probability (RP) values. For every evolution rate $x\in \{1,2,3,...,50\}$ and rewire probability $y\in\{0.05,0.1,0.15,...,0.4\}$, a unique population is tested for 5000 generations. Each sub-figure presents a set of populations who use the same RP value but different ER values.

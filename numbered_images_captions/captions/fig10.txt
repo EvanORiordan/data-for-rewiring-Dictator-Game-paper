@@ -1,0 +1,1 @@
+Proposal values ($p$) and ``neighbourhood p", the mean proposal value of an agent's neighbours, of generations 1, 10, 100, 1000 and 10000 of a population using trust weight rewiring, cumulative utility and roulette wheel selection.
