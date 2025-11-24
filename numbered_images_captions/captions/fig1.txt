@@ -1,1 +1,0 @@
-Mean proposal value and standard deviation ($\sigma_p$) of a population without trust weights using roulette wheel selection for 50 generations.

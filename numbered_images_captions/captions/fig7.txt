@@ -1,1 +1,0 @@
-Mean proposal value and standard deviation ($\sigma_p$) of a population using trust weight rewiring, cumulative utility and roulette wheel selection for 12000 generations.

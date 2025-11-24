@@ -1,1 +1,0 @@
-Mean proposal value and standard deviation ($\sigma_p$) of a population using trust weights, normalised utility and random neighbour selection for 250 generations.
